@@ -1,3 +1,3 @@
 # gridiumProject
 
-Requires that modules BeautifulSoup4 and requests.
+Requires the modules BeautifulSoup4 and requests.
